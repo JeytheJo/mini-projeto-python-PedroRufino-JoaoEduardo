@@ -4,17 +4,17 @@
 
 ### O QUE SISTEMA FAZ:
 
--Cadastra novos produtos com código, nome, preço, quantidade e categoria
+- Cadastra novos produtos com código, nome, preço, quantidade e categoria
 
--Mostra a lista de produtos
+- Mostra a lista de produtos
 
--Busca um produto pelo código
+- Busca um produto pelo código
 
--Atualiza as informações de um produto
+- Atualiza as informações de um produto
 
--Exclui um produto
+- Exclui um produto
 
-- tem a opção de sair do sistema
+- Tem a opção de sair do sistema
 
 COMO FUNCIONA:
 
