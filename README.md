@@ -22,8 +22,7 @@ COMO FUNCIONA:
 Tem também um set pra não deixar cadastrar o mesmo código duas vezes,
 e uma tupla com as categorias dos produtos.
 
-# Atividade Avaliativa Progamação Python
-## Projeto 2 - Sistema de Controle de alunos e notas
+## Sistema 2 - Sistema de Controle de alunos e notas
 
 ### Começando pela criaçãode uma lista e um conjunto, onde serão guardadas as primeiras informações:
 ~~~
